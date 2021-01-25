@@ -5,8 +5,3 @@ node_modules
 dist
 .cache
 
-# Ignore credentials
-credentials.py
-
-# Ignore text
-dist/text/
