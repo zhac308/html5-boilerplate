@@ -9,4 +9,4 @@ dist
 credentials.py
 
 # Ignore text
-test/*.txt
+dist/text/
